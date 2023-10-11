@@ -1,0 +1,10 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20vh;
+    background-image: url("https://sme.goiania.go.gov.br/conexaoescola/wp-content/uploads/2023/04/hd-wallpaper-g9b0fb920e_1920-e1682776164526.jpg");
+}
+#titulo{
+    color: white
+}
